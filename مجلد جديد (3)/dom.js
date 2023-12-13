@@ -9,7 +9,7 @@ logoLink.setAttribute('class', 'smalllogo');
 
 const logoImage = document.createElement('img');
 logoImage.setAttribute('src', '../../../../files/assets/imgs/logo.svg');
-logoImage.setAttribute('alt', 'شركة شباب المستقبل  للاستشارات الأكاديمية والترجمة');
+logoImage.setAttribute('alt', 'شركة مستقبل الشباب  للاستشارات الأكاديمية والترجمة');
 
 // إضافة الصورة إلى عنصر الرابط
 logoLink.appendChild(logoImage);
